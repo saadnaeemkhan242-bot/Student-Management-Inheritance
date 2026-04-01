@@ -14,12 +14,12 @@ This Java program demonstrates the concept of **single inheritance**.
 ## Example Output
 --- Person Details ---
 Name: Saad Naeem
-\nID: 101
-\nAge: 17
+ID: 101
+Age: 17
 
 --- Student Details ---
-\nMarks: 85
-\nGrade: A
+Marks: 85
+Grade: A
 
 ## Author Name
   Saad Naeem
